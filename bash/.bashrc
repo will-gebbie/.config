@@ -1,8 +1,6 @@
-if [ -f ~/.config/bash/bash_aliases ]; then
-    source ~/.config/bash/bash_aliases
+if [ -f ~/.config/bash/.bash_aliases ]; then
+    source ~/.config/bash/.bash_aliases
 fi
-
-
 
 # Set bash in vi mode
 set -o vi
