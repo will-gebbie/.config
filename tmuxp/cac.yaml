@@ -1,0 +1,8 @@
+session_name: code&cmd
+windows:
+  - window_name: code
+    panes:
+      - nvim .
+  - window_name: cmd
+    panes:
+      - pwd
