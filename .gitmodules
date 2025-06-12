@@ -1,6 +1,3 @@
-[submodule "kickstart.nvim"]
-	path = kickstart.nvim
-	url = https://www.github.com/will-gebbie/kickstart.nvim
 [submodule "/home/will_linux/.config/nvim"]
 	path = /home/will_linux/.config/nvim
 	url = https://www.github.com/will-gebbie/kickstart.nvim
